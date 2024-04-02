@@ -1,5 +1,6 @@
 # Face-Attribute-Recognition-And-Classification-Using-Deep-Learning
 
+## Major Project
 ## Introduction
 This repository contains the implementation of a face attribute recognition system designed to enhance security in critical locations such as universities, airports, ATMs, and border control points. Traditional security measures often face limitations in accurately identifying individuals, highlighting the need for advanced technology solutions.
 
