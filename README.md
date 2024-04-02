@@ -12,3 +12,7 @@ Our solution integrates state-of-the-art deep learning techniques for precise fa
 - **Easy Integration**: Predicted attributes are output as yes or no, facilitating seamless integration into existing security infrastructure.
 - **Rigorous Testing**: The system undergoes rigorous training and testing to ensure effectiveness and generalization across diverse scenarios.
 - **Enhanced Security**: Provides an essential tool for preventing unauthorized access and strengthening security protocols in real-world applications.
+
+## Output
+
+The system outputs predicted attributes as yes or no, indicating the presence or absence of facial attributes. Sample results and performance metrics can be found in the Output directory.
